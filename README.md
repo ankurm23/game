@@ -1,4 +1,5 @@
 # Snake Water Gun Game
+# My first python GAME
 
 
 There are 10 chances in this game.
